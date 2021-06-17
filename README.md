@@ -9,4 +9,4 @@ hemakumarm72/hemakumarm72 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-I'm finding fresher jobs in TOP MNC
+I'm opportunity for developer position.
