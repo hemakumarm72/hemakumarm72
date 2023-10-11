@@ -7,7 +7,7 @@
 
 -  Top Project - Nokia voice Assistant, Smart Locker, Sentosa Locker management, ChopeAi - Smart Meeting Room Management (Saas), VRIN - smart Parcel Service (Ecom) 
 
-- 🌱 I’m currently learning **Machine learning, Ai**
+- 🌱 I’m currently learning **Machine learning, Ai**, Embedded Software
 
 - Collage Project [IPFS (Blockchain)](https://github.com/hemakumarm72/IPFS-image-upload-blockchain)
 
