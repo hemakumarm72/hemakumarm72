@@ -5,9 +5,9 @@
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemakumarm72" alt="hemakumarm72" /></a> </p>
 
--  Top Project - Nokia voice Assistant, Smart Locker, Sentosa Locker management, ChopeAi - Smart Meeting Room Management (Saas), VRIN - smart Parcel Service (Ecom) 
+-  Top Project - **Nokia voice Assistant, Smart Locker, Sentosa Locker management, ChopeAi - Smart Meeting Room Management (Saas), VRIN - smart Parcel Service (Ecom)** 
 
-- 🌱 I’m currently learning **Machine learning, Ai**, Embedded Software
+- 🌱 I’m currently learning **Machine learning, Ai, Embedded Software**,
 
 - Collage Project [IPFS (Blockchain)](https://github.com/hemakumarm72/IPFS-image-upload-blockchain)
 
