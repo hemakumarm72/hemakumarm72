@@ -98,6 +98,13 @@
 - 💼 LinkedIn: [hemakumarm](https://linkedin.com/in/hemakumarm)  
 - 💻 HackerRank: [hemakumarm72](https://www.hackerrank.com/hemakumarm72)
 
+
+
+---
+
+🔥 *Always curious, always building. Let’s connect and create something amazing together!*
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hemakumarm72&label=Profile%20Views&color=0e75b6&style=flat" alt="hemakumarm72" />
 </p>
