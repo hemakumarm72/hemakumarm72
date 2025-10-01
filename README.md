@@ -5,7 +5,7 @@
   <a href="https://linkedin.com/in/hemakumarm">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://twitter.com/@hemakumarm72">
+  <a href="https://twitter.com/hemakumarm72">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
   <a href="https://drive.google.com/your-new-resume-link">
@@ -17,8 +17,9 @@
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400">
 </div>
 
+---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 - 🌍 Based in Chennai, India  
 - 💼 Backend Developer at Willeder (TypeScript + Node.js)  
 - ✨ Love building scalable backend systems, cloud infra & IoT integrations  
@@ -26,26 +27,13 @@
 
 ---
 
-### 🛠️ Tech Stack
-- **Languages:** JavaScript (ES6+), TypeScript, Python  
-- **Backend:** Node.js, Express.js, REST APIs, GraphQL  
-- **Databases:** MongoDB, PostgreSQL, Redis  
-- **DevOps & Cloud:** Docker, Kubernetes, AWS, Serverless Framework  
-- **Other Tools:** Git, CI/CD pipelines, WebSockets, Redis caching  
-
----
-
-
-
-
-### 🏅 Achievements & Certifications
+## 🏅 Achievements
 - 🥇 Winner - **Mars Asia Hackathon**  
-- 🥈 Runner-up - **Binance Bharat India Hackathon**
+- 🥈 Runner-up - **Binance Bharat India Hackathon**  
 
 ---
 
-
-### 💡 What I Do
+## 💡 What I Do
 - Build **scalable backend systems** with Node.js & TypeScript  
 - Optimize **MongoDB queries** and aggregation pipelines for performance  
 - Implement **real-time apps** (WebSockets, Redis pub/sub)  
@@ -54,13 +42,13 @@
 
 ---
 
-### 🌱 Currently Exploring
+## 🌱 Currently Exploring
 - Advanced Data Structures & Algorithms  
 - Kubernetes Autoscaling & Cloud Infrastructure  
+
 ---
 
-
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 **Languages & Frameworks**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -80,7 +68,7 @@
 
 ---
 
-### 📈 GitHub Analytics
+## 📈 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hemakumarm72&show_icons=true&theme=radical" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemakumarm72&theme=radical" width="48%">
@@ -92,20 +80,15 @@
 
 ---
 
-
-### 📫 Let's Connect!
+## 📫 Let's Connect!
 - 💌 Email: [hemakumarm72@gmail.com](mailto:hemakumarm72@gmail.com)  
 - 💼 LinkedIn: [hemakumarm](https://linkedin.com/in/hemakumarm)  
-- 💻 HackerRank: [hemakumarm72](https://www.hackerrank.com/hemakumarm72)
-
-
+- 💻 HackerRank: [hemakumarm72](https://www.hackerrank.com/hemakumarm72)  
 
 ---
 
-🔥 *Always curious, always building. Let’s connect and create something amazing together!*
-
+🔥 *Always curious, always building. Let’s connect and create something amazing together!*  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hemakumarm72&label=Profile%20Views&color=0e75b6&style=flat" alt="hemakumarm72" />
 </p>
-  
