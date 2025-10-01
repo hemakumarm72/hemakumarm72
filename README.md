@@ -17,6 +17,24 @@
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400">
 </div>
 
+
+### 👨‍💻 About Me
+- 🌍 Based in Chennai, India  
+- 💼 Backend Developer at Willeder (TypeScript + Node.js)  
+- ✨ Love building scalable backend systems, cloud infra & IoT integrations  
+- 📝 Passionate about knowledge sharing, security, and solving real-world problems  
+
+---
+
+### 🏅 Achievements & Certifications
+- 🥇 Winner - **Mars Asia Hackathon**  
+- 🥈 Runner-up - **Binance Bharat India Hackathon**  
+
+---
+
+### 🌱 Currently Exploring
+- Advanced Data Structures & Algorithms  
+- Kubernetes Autoscaling & Cloud Infrastructure  
 ---
 
 
@@ -52,12 +70,6 @@
 
 ---
 
-### 🌱 Currently Exploring
-- Advanced Data Structures & Algorithms  
-- Kubernetes Autoscaling & Cloud Infrastructure  
-- Ethical Hacking & Kali Linux  
-
----
 
 ### 📫 Let's Connect!
 - 💌 Email: [hemakumarm72@gmail.com](mailto:hemakumarm72@gmail.com)  
