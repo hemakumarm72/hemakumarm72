@@ -26,9 +26,31 @@
 
 ---
 
+### 🛠️ Tech Stack
+- **Languages:** JavaScript (ES6+), TypeScript, Python  
+- **Backend:** Node.js, Express.js, REST APIs, GraphQL  
+- **Databases:** MongoDB, PostgreSQL, Redis  
+- **DevOps & Cloud:** Docker, Kubernetes, AWS, Serverless Framework  
+- **Other Tools:** Git, CI/CD pipelines, WebSockets, Redis caching  
+
+---
+
+
+
+
 ### 🏅 Achievements & Certifications
 - 🥇 Winner - **Mars Asia Hackathon**  
-- 🥈 Runner-up - **Binance Bharat India Hackathon**  
+- 🥈 Runner-up - **Binance Bharat India Hackathon**
+
+---
+
+
+### 💡 What I Do
+- Build **scalable backend systems** with Node.js & TypeScript  
+- Optimize **MongoDB queries** and aggregation pipelines for performance  
+- Implement **real-time apps** (WebSockets, Redis pub/sub)  
+- Contribute to **secure web solutions** with OAuth2.0 & JWT  
+- Mentor & collaborate in **Agile teams**  
 
 ---
 
